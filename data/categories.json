@@ -1,0 +1,12 @@
+[
+  { "id": "nitrogen",     "type": "fertilizer", "order": 1,  "name": { "hi": "नाइट्रोजन उर्वरक",   "en": "Nitrogen Fertilizers" } },
+  { "id": "phosphatic",   "type": "fertilizer", "order": 2,  "name": { "hi": "फॉस्फेटिक उर्वरक",  "en": "Phosphatic Fertilizers" } },
+  { "id": "potassic",     "type": "fertilizer", "order": 3,  "name": { "hi": "पोटैशिक उर्वरक",    "en": "Potassic Fertilizers" } },
+  { "id": "complex-npk",  "type": "fertilizer", "order": 4,  "name": { "hi": "एनपीके कॉम्प्लेक्स", "en": "NPK Complex" } },
+  { "id": "micronutrient","type": "fertilizer", "order": 5,  "name": { "hi": "सूक्ष्म पोषक तत्व",  "en": "Micronutrients" } },
+  { "id": "organic",      "type": "fertilizer", "order": 6,  "name": { "hi": "जैविक खाद",         "en": "Organic Manure" } },
+  { "id": "insecticide",  "type": "pesticide",  "order": 7,  "name": { "hi": "कीटनाशक",           "en": "Insecticides" } },
+  { "id": "fungicide",    "type": "pesticide",  "order": 8,  "name": { "hi": "फफूंदनाशक",         "en": "Fungicides" } },
+  { "id": "herbicide",    "type": "pesticide",  "order": 9,  "name": { "hi": "खरपतवारनाशी",       "en": "Herbicides" } },
+  { "id": "bio-pesticide","type": "pesticide",  "order": 10, "name": { "hi": "जैविक कीटनाशक",     "en": "Bio-Pesticides" } }
+]

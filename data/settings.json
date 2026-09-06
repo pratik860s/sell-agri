@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "name": "Rajat Kisan",
+    "tagline": {
+      "hi": "किसान की तरक्की, हमारा लक्ष्य! 🚜",
+      "en": "The farmer's progress is our goal! 🚜"
+    }
+  },
+  "whatsappNumber": "919876543210",
+  "whatsappHours": {
+    "hi": "सोमवार – शनिवार, सुबह 9 से शाम 7 बजे तक",
+    "en": "Monday – Saturday, 9 AM to 7 PM"
+  },
+  "youtubeUrl": "https://www.youtube.com/@rajatkisan",
+  "phone": "+91 98765 43210",
+  "email": "contact@rajatkisan.in",
+  "address": {
+    "hi": "रजत किसान कृषि सेवा केंद्र, मुख्य बाज़ार, जिला — उत्तर प्रदेश",
+    "en": "Rajat Kisan Agri Service Centre, Main Market, Uttar Pradesh"
+  },
+  "hero": {
+    "badge": {
+      "hi": "आधुनिक खेती और बेहतर पैदावार का भरोसा",
+      "en": "Trusted modern farming for a better harvest"
+    },
+    "title": {
+      "hi": "किसान की तरक्की,",
+      "en": "The farmer's progress,"
+    },
+    "titleAccent": {
+      "hi": "हमारा लक्ष्य! 🚜🌾",
+      "en": "our mission! 🚜🌾"
+    },
+    "subtitle": {
+      "hi": "Rajat Kisan पर आपको खेती-किसानी से जुड़ी Practical और उपयोगी जानकारी मिलेगी। हमारा उद्देश्य किसानों तक आधुनिक खेती की तकनीक, फसल प्रबंधन और कृषि से जुड़ी महत्वपूर्ण जानकारी आसान भाषा में पहुँचाना है — साथ ही भरोसेमंद खाद, उर्वरक और कीटनाशक सही दाम पर उपलब्ध कराना है।",
+      "en": "Rajat Kisan brings you practical, field-tested farming knowledge in plain language — modern techniques, crop management and everything that matters — along with trusted fertilizers and pesticides at honest prices."
+    }
+  },
+  "messageTemplate": {
+    "hi": "नमस्ते Rajat Kisan 🌱\nमुझे इस उत्पाद की जानकारी चाहिए:\n\n📦 उत्पाद : {{product}}\n📐 पैक : {{variant}}\n💰 कीमत : {{price}}\n🔖 कोड : {{sku}}\n🔗 लिंक : {{url}}\n\nकृपया उपलब्धता और डिलीवरी की जानकारी दें।",
+    "en": "Hello Rajat Kisan 🌱\nI would like details about this product:\n\n📦 Product : {{product}}\n📐 Pack : {{variant}}\n💰 Price : {{price}}\n🔖 Code : {{sku}}\n🔗 Link : {{url}}\n\nPlease share availability and delivery details."
+  },
+  "soilMessageTemplate": {
+    "hi": "नमस्ते Rajat Kisan 🌱\nमुझे अपने खेत की मिट्टी की जाँच करवानी है।\n\n👤 नाम : {{name}}\n📞 मोबाइल : {{phone}}\n📍 गाँव / जिला : {{location}}\n🌾 वर्तमान फसल : {{crop}}\n📐 खेत का रकबा : {{area}}\n\nकृपया आगे की प्रक्रिया और शुल्क बताएं।",
+    "en": "Hello Rajat Kisan 🌱\nI would like to get my soil tested.\n\n👤 Name : {{name}}\n📞 Mobile : {{phone}}\n📍 Village / District : {{location}}\n🌾 Current crop : {{crop}}\n📐 Land area : {{area}}\n\nPlease share the process and charges."
+  },
+  "updatedAt": "2026-09-06T00:00:00.000Z"
+}

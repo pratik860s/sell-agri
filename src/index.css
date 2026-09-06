@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased;
+    font-family: 'Inter', 'Noto Sans Devanagari', sans-serif;
+  }
+  /* Devanagari needs a little more leading than Latin at the same size. */
+  html[lang='hi'] body {
+    line-height: 1.7;
+  }
+  ::selection {
+    @apply bg-agri-500 text-white;
+  }
+  :focus-visible {
+    @apply outline-none ring-2 ring-agri-500 ring-offset-2 ring-offset-white;
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl font-semibold
+           transition active:scale-[.98] disabled:opacity-50 disabled:pointer-events-none;
+  }
+  .btn-primary {
+    @apply btn bg-agri-500 hover:bg-agri-600 text-white px-6 py-3 shadow-lg shadow-agri-500/25;
+  }
+  .btn-whatsapp {
+    @apply btn bg-[#25D366] hover:bg-[#1eb356] text-white px-6 py-3 shadow-lg shadow-[#25D366]/25;
+  }
+  .btn-ghost {
+    @apply btn border border-slate-300 bg-white hover:bg-slate-50 text-slate-700 px-5 py-2.5;
+  }
+  .field {
+    @apply w-full px-4 py-3 rounded-xl border border-slate-300 bg-white
+           focus:outline-none focus:ring-2 focus:ring-agri-500 focus:border-agri-500
+           placeholder:text-slate-400 transition;
+  }
+  .label {
+    @apply block text-xs font-semibold text-slate-700 uppercase tracking-wide mb-1.5;
+  }
+  .card {
+    @apply bg-white border border-slate-200/80 rounded-2xl;
+  }
+}
+
+/* Keep wide admin tables inside their own scroll container. */
+.scroll-x {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}

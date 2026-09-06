@@ -1,0 +1,791 @@
+[
+  {
+    "id": "p_001",
+    "featured": true,
+    "active": true,
+    "crops": [
+      "wheat",
+      "rice",
+      "sugarcane",
+      "maize"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "urea-neem-coated",
+    "sku": "FRT-URE-001",
+    "type": "fertilizer",
+    "category": "nitrogen",
+    "brand": "IFFCO",
+    "technical": "46% N",
+    "name": {
+      "hi": "यूरिया (नीम कोटेड)",
+      "en": "Urea (Neem Coated)"
+    },
+    "shortDesc": {
+      "hi": "46% नाइट्रोजन — फसल की बढ़वार के लिए सबसे भरोसेमंद उर्वरक",
+      "en": "46% Nitrogen — the most trusted fertilizer for vegetative growth"
+    },
+    "description": {
+      "hi": "नीम कोटेड यूरिया में 46% नाइट्रोजन होता है, जो पौधों की पत्तियों और तनों की बढ़वार के लिए सबसे ज़रूरी पोषक तत्व है। नीम की परत नाइट्रोजन को धीरे-धीरे छोड़ती है, जिससे खाद ज़्यादा समय तक खेत में टिकती है और बहाव में नुकसान कम होता है। पत्तियों का गहरा हरा रंग और स्वस्थ कल्ले इसी की पहचान हैं।",
+      "en": "Neem coated urea carries 46% nitrogen, the nutrient plants need most for leaf and stem growth. The neem coating slows nitrogen release so the fertilizer stays available in the field for longer and less is lost to leaching. Deep green foliage and healthy tillering are the visible result."
+    },
+    "usage": {
+      "hi": "बुवाई के समय आधी मात्रा और बाकी दो बार टॉप ड्रेसिंग में — पहली सिंचाई और दूसरी सिंचाई के साथ डालें। छिड़काव के तुरंत बाद हल्की सिंचाई करें।",
+      "en": "Apply half at sowing and the rest as two top dressings, with the first and second irrigation. Irrigate lightly right after broadcasting."
+    },
+    "dosage": {
+      "hi": "गेहूँ/धान: 100–120 किग्रा प्रति एकड़ (तीन बार में)",
+      "en": "Wheat/Rice: 100–120 kg per acre, split into three applications"
+    },
+    "safetyNotes": {
+      "hi": "सूखी और छायादार जगह पर रखें। खुले में रखने पर नमी सोखकर जम जाती है। बच्चों और पशुओं की पहुँच से दूर रखें।",
+      "en": "Store dry and shaded. It cakes if it absorbs moisture in the open. Keep away from children and livestock."
+    },
+    "variants": [
+      {
+        "unit": "bag",
+        "active": true,
+        "label": {
+          "hi": "45 किग्रा बैग",
+          "en": "45 kg Bag"
+        },
+        "mrp": 300,
+        "price": 266.5,
+        "stock": 180,
+        "id": "v1"
+      },
+      {
+        "unit": "pack",
+        "active": true,
+        "label": {
+          "hi": "5 किग्रा पैक",
+          "en": "5 kg Pack"
+        },
+        "mrp": 45,
+        "price": 40,
+        "stock": 60,
+        "id": "v2"
+      }
+    ]
+  },
+  {
+    "id": "p_002",
+    "featured": true,
+    "active": true,
+    "crops": [
+      "wheat",
+      "mustard",
+      "gram",
+      "potato"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "dap-di-ammonium-phosphate",
+    "sku": "FRT-DAP-002",
+    "type": "fertilizer",
+    "category": "phosphatic",
+    "brand": "IFFCO",
+    "technical": "18% N : 46% P₂O₅",
+    "name": {
+      "hi": "डीएपी (डाइ-अमोनियम फॉस्फेट)",
+      "en": "DAP (Di-Ammonium Phosphate)"
+    },
+    "shortDesc": {
+      "hi": "18:46:0 — जड़ों के मज़बूत विकास के लिए बुवाई के समय की मुख्य खाद",
+      "en": "18:46:0 — the primary basal fertilizer for strong root development"
+    },
+    "description": {
+      "hi": "डीएपी में 18% नाइट्रोजन और 46% फॉस्फोरस होता है। फॉस्फोरस जड़ों के विकास, कल्ले फूटने और दाना भरने के लिए ज़रूरी है, इसलिए इसे हमेशा बुवाई के समय बेसल डोज़ में देना चाहिए। बाद में डालने से इसका पूरा फायदा नहीं मिलता, क्योंकि फॉस्फोरस मिट्टी में बहुत धीरे चलता है।",
+      "en": "DAP supplies 18% nitrogen and 46% phosphorus. Phosphorus drives root development, tillering and grain filling, which is why it belongs in the basal dose at sowing. Applied later it delivers far less benefit, because phosphorus moves very slowly through soil."
+    },
+    "usage": {
+      "hi": "बुवाई के समय बीज के नीचे कूँड़ में डालें, बीज से सीधा संपर्क न होने दें। यूरिया के साथ मिलाकर तुरंत उपयोग करें, स्टोर करके न रखें।",
+      "en": "Place in the furrow below the seed at sowing; avoid direct seed contact. If mixed with urea, use immediately rather than storing the mixture."
+    },
+    "dosage": {
+      "hi": "50 किग्रा प्रति एकड़ बुवाई के समय",
+      "en": "50 kg per acre as a basal dose"
+    },
+    "safetyNotes": {
+      "hi": "नमी से बचाकर रखें। मिट्टी परीक्षण के बाद ही मात्रा तय करें — ज़रूरत से ज़्यादा फॉस्फोरस जिंक की कमी पैदा कर सकता है।",
+      "en": "Protect from moisture. Decide the dose from a soil test — excess phosphorus can induce zinc deficiency."
+    },
+    "variants": [
+      {
+        "unit": "bag",
+        "active": true,
+        "label": {
+          "hi": "50 किग्रा बैग",
+          "en": "50 kg Bag"
+        },
+        "mrp": 1500,
+        "price": 1350,
+        "stock": 95,
+        "id": "v1"
+      }
+    ]
+  },
+  {
+    "id": "p_003",
+    "featured": false,
+    "active": true,
+    "crops": [
+      "potato",
+      "sugarcane",
+      "banana",
+      "cotton"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "mop-muriate-of-potash",
+    "sku": "FRT-MOP-003",
+    "type": "fertilizer",
+    "category": "potassic",
+    "brand": "IPL",
+    "technical": "60% K₂O",
+    "name": {
+      "hi": "म्यूरेट ऑफ पोटाश (एमओपी)",
+      "en": "Muriate of Potash (MOP)"
+    },
+    "shortDesc": {
+      "hi": "60% पोटाश — दाने और फल की गुणवत्ता तथा रोग-प्रतिरोधक क्षमता बढ़ाए",
+      "en": "60% potash — improves grain and fruit quality and disease resistance"
+    },
+    "description": {
+      "hi": "पोटाश पौधे में पानी के संतुलन, शर्करा के निर्माण और रोग-प्रतिरोधक क्षमता को नियंत्रित करता है। पोटाश की कमी से पत्तियों के किनारे पीले-भूरे होकर सूखने लगते हैं और दाना हल्का रह जाता है। आलू, गन्ना और केले जैसी फसलों में इसकी माँग सबसे ज़्यादा होती है।",
+      "en": "Potash governs water balance, sugar formation and disease resistance in the plant. A deficiency shows as yellow-brown scorching along leaf margins and poorly filled grain. Potato, sugarcane and banana are the heaviest feeders."
+    },
+    "usage": {
+      "hi": "आधी मात्रा बुवाई के समय और आधी कंद/फल बनने की अवस्था पर दें।",
+      "en": "Apply half at sowing and half at the tuber or fruit formation stage."
+    },
+    "dosage": {
+      "hi": "20–30 किग्रा प्रति एकड़ (फसल के अनुसार)",
+      "en": "20–30 kg per acre depending on the crop"
+    },
+    "safetyNotes": {
+      "hi": "क्लोराइड-संवेदनशील फसलों (तंबाकू, कुछ सब्ज़ियाँ) में एसओपी का उपयोग बेहतर रहता है।",
+      "en": "For chloride-sensitive crops such as tobacco and some vegetables, SOP is the better choice."
+    },
+    "variants": [
+      {
+        "unit": "bag",
+        "active": true,
+        "label": {
+          "hi": "50 किग्रा बैग",
+          "en": "50 kg Bag"
+        },
+        "mrp": 1800,
+        "price": 1700,
+        "stock": 48,
+        "id": "v1"
+      }
+    ]
+  },
+  {
+    "id": "p_004",
+    "featured": true,
+    "active": true,
+    "crops": [
+      "cotton",
+      "soybean",
+      "groundnut",
+      "maize"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "npk-12-32-16",
+    "sku": "FRT-NPK-004",
+    "type": "fertilizer",
+    "category": "complex-npk",
+    "brand": "Coromandel",
+    "technical": "12:32:16",
+    "name": {
+      "hi": "एनपीके 12:32:16 कॉम्प्लेक्स",
+      "en": "NPK 12:32:16 Complex"
+    },
+    "shortDesc": {
+      "hi": "तीनों मुख्य पोषक तत्व एक ही दाने में — संतुलित बेसल डोज़",
+      "en": "All three primary nutrients in one granule — a balanced basal dose"
+    },
+    "description": {
+      "hi": "इस कॉम्प्लेक्स खाद के हर दाने में नाइट्रोजन, फॉस्फोरस और पोटाश तीनों मौजूद रहते हैं, इसलिए पूरे खेत में पोषण एक समान पहुँचता है। अलग-अलग खाद मिलाने की ज़रूरत नहीं पड़ती और मज़दूरी भी बचती है। कपास, सोयाबीन और मक्का के लिए यह बहुत उपयुक्त है।",
+      "en": "Every granule of this complex carries nitrogen, phosphorus and potash together, so nutrition reaches the whole field evenly. There is no need to blend separate fertilizers, which also saves labour. Well suited to cotton, soybean and maize."
+    },
+    "usage": {
+      "hi": "बुवाई के समय बेसल डोज़ के रूप में कूँड़ में डालें।",
+      "en": "Apply in the furrow as a basal dose at sowing."
+    },
+    "dosage": {
+      "hi": "50 किग्रा प्रति एकड़",
+      "en": "50 kg per acre"
+    },
+    "safetyNotes": {
+      "hi": "सूखी जगह पर रखें। बोरी खोलने के बाद जल्दी उपयोग कर लें।",
+      "en": "Store dry and use promptly once the bag is opened."
+    },
+    "variants": [
+      {
+        "unit": "bag",
+        "active": true,
+        "label": {
+          "hi": "50 किग्रा बैग",
+          "en": "50 kg Bag"
+        },
+        "mrp": 1600,
+        "price": 1470,
+        "stock": 62,
+        "id": "v1"
+      }
+    ]
+  },
+  {
+    "id": "p_005",
+    "featured": false,
+    "active": true,
+    "crops": [
+      "rice",
+      "wheat",
+      "maize"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "zinc-sulphate-21",
+    "sku": "FRT-ZNS-005",
+    "type": "fertilizer",
+    "category": "micronutrient",
+    "brand": "Rajat Kisan",
+    "technical": "Zinc Sulphate Monohydrate 33% / Heptahydrate 21%",
+    "name": {
+      "hi": "जिंक सल्फेट 21%",
+      "en": "Zinc Sulphate 21%"
+    },
+    "shortDesc": {
+      "hi": "धान-गेहूँ में जिंक की कमी (खैरा रोग) का सीधा और सस्ता इलाज",
+      "en": "The direct, low-cost fix for zinc deficiency (khaira) in rice and wheat"
+    },
+    "description": {
+      "hi": "भारत की ज़्यादातर मिट्टियों में जिंक की कमी आम है। धान में यह \"खैरा रोग\" के रूप में दिखती है — पत्तियों पर जंग जैसे भूरे धब्बे और पौधे का बौना रह जाना। जिंक पौधे में हार्मोन बनाने और दाना भरने में सीधी भूमिका निभाता है, इसलिए थोड़ी मात्रा भी पैदावार पर बड़ा असर डालती है।",
+      "en": "Zinc deficiency is common across most Indian soils. In rice it appears as khaira — rusty brown patches on leaves and stunted plants. Zinc has a direct role in hormone synthesis and grain filling, so even a small dose can move yield noticeably."
+    },
+    "usage": {
+      "hi": "मिट्टी में: बुवाई से पहले रेत या खाद में मिलाकर बिखेरें। छिड़काव: 5 ग्राम प्रति लीटर पानी, 15 दिन के अंतर पर दो बार। डीएपी के साथ कभी न मिलाएँ।",
+      "en": "Soil: broadcast before sowing after mixing with sand or manure. Spray: 5 g per litre of water, twice at 15-day intervals. Never mix with DAP."
+    },
+    "dosage": {
+      "hi": "मिट्टी में 10 किग्रा प्रति एकड़, या छिड़काव में 5 ग्राम/लीटर",
+      "en": "10 kg per acre in soil, or 5 g per litre as a spray"
+    },
+    "safetyNotes": {
+      "hi": "फॉस्फेटिक खाद के साथ मिलाने पर दोनों का असर घट जाता है — अलग-अलग डालें।",
+      "en": "Mixing with phosphatic fertilizer reduces the effect of both — apply them separately."
+    },
+    "variants": [
+      {
+        "unit": "pack",
+        "active": true,
+        "label": {
+          "hi": "5 किग्रा पैक",
+          "en": "5 kg Pack"
+        },
+        "mrp": 350,
+        "price": 320,
+        "stock": 74,
+        "id": "v1"
+      },
+      {
+        "unit": "bag",
+        "active": true,
+        "label": {
+          "hi": "25 किग्रा बैग",
+          "en": "25 kg Bag"
+        },
+        "mrp": 1600,
+        "price": 1450,
+        "stock": 22,
+        "id": "v2"
+      }
+    ]
+  },
+  {
+    "id": "p_006",
+    "featured": false,
+    "active": true,
+    "crops": [
+      "vegetables",
+      "wheat",
+      "sugarcane",
+      "orchard"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "vermicompost-organic-manure",
+    "sku": "FRT-VRM-006",
+    "type": "fertilizer",
+    "category": "organic",
+    "brand": "Rajat Kisan",
+    "technical": "Organic Carbon > 18%",
+    "name": {
+      "hi": "वर्मी कम्पोस्ट (केंचुआ खाद)",
+      "en": "Vermicompost (Earthworm Manure)"
+    },
+    "shortDesc": {
+      "hi": "मिट्टी की जान लौटाने वाली शुद्ध जैविक खाद",
+      "en": "Pure organic manure that brings soil back to life"
+    },
+    "description": {
+      "hi": "लगातार रासायनिक खाद के इस्तेमाल से मिट्टी सख़्त हो जाती है और उसका जैविक कार्बन घट जाता है। वर्मी कम्पोस्ट मिट्टी को भुरभुरा बनाती है, पानी रोकने की क्षमता बढ़ाती है और लाभदायक सूक्ष्मजीवों को बढ़ावा देती है। इसका असर धीमा लेकिन कई सालों तक टिकने वाला होता है।",
+      "en": "Continuous chemical fertilizer use hardens soil and depletes its organic carbon. Vermicompost restores tilth, improves water-holding capacity and feeds beneficial microbes. Its effect is slow but lasts for several seasons."
+    },
+    "usage": {
+      "hi": "खेत की तैयारी के समय आख़िरी जुताई से पहले खेत में बिखेरें। सब्ज़ियों में क्यारी बनाते समय मिलाएँ।",
+      "en": "Broadcast during field preparation before the last ploughing. For vegetables, mix in while making beds."
+    },
+    "dosage": {
+      "hi": "800 किग्रा – 1 टन प्रति एकड़ प्रति सीज़न",
+      "en": "800 kg – 1 tonne per acre per season"
+    },
+    "safetyNotes": {
+      "hi": "पूरी तरह से बना हुआ (काला, भुरभुरा, बदबूरहित) कम्पोस्ट ही उपयोग करें।",
+      "en": "Use only fully matured compost — black, crumbly and odourless."
+    },
+    "variants": [
+      {
+        "unit": "bag",
+        "active": true,
+        "label": {
+          "hi": "50 किग्रा बैग",
+          "en": "50 kg Bag"
+        },
+        "mrp": 500,
+        "price": 450,
+        "stock": 130,
+        "id": "v1"
+      },
+      {
+        "unit": "pack",
+        "active": true,
+        "label": {
+          "hi": "10 किग्रा पैक",
+          "en": "10 kg Pack"
+        },
+        "mrp": 130,
+        "price": 110,
+        "stock": 85,
+        "id": "v2"
+      }
+    ]
+  },
+  {
+    "id": "p_007",
+    "featured": true,
+    "active": true,
+    "crops": [
+      "cotton",
+      "rice",
+      "vegetables",
+      "sugarcane"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "imidacloprid-17-8-sl",
+    "sku": "PST-IMD-007",
+    "type": "pesticide",
+    "category": "insecticide",
+    "brand": "Bayer",
+    "technical": "Imidacloprid 17.8% SL",
+    "name": {
+      "hi": "इमिडाक्लोप्रिड 17.8% SL",
+      "en": "Imidacloprid 17.8% SL"
+    },
+    "shortDesc": {
+      "hi": "रस चूसने वाले कीटों — माहू, सफ़ेद मक्खी, थ्रिप्स — का असरदार नियंत्रण",
+      "en": "Effective control of sucking pests — aphids, whitefly and thrips"
+    },
+    "description": {
+      "hi": "यह एक सिस्टेमिक कीटनाशक है, यानी पौधा इसे जड़ और पत्ती से सोख लेता है और पूरे पौधे में फैला देता है। इसलिए जो कीट पत्ती के नीचे छिपे रहते हैं, वे भी रस चूसते ही मर जाते हैं। माहू (एफिड), सफ़ेद मक्खी, हॉपर और थ्रिप्स पर यह बहुत प्रभावी है।",
+      "en": "A systemic insecticide: the plant absorbs it through root and leaf and distributes it throughout its tissue. Pests sheltering under the leaf are therefore killed as soon as they feed. Highly effective against aphids, whitefly, hoppers and thrips."
+    },
+    "usage": {
+      "hi": "शाम के समय छिड़काव करें जब हवा शांत हो। 15 लीटर के पंप में 5–7 मिली मिलाएँ। एक ही दवा बार-बार न दोहराएँ, वरना कीटों में प्रतिरोध पैदा हो जाता है।",
+      "en": "Spray in the evening when the air is still. Mix 5–7 ml per 15-litre knapsack. Do not repeat the same molecule continuously, or pests develop resistance."
+    },
+    "dosage": {
+      "hi": "60–80 मिली प्रति एकड़ (200 लीटर पानी में)",
+      "en": "60–80 ml per acre in 200 litres of water"
+    },
+    "safetyNotes": {
+      "hi": "⚠️ फूल आने के समय छिड़काव न करें — मधुमक्खियों के लिए ज़हरीला है। छिड़काव के समय मास्क, दस्ताने और पूरी बाजू के कपड़े पहनें। कटाई से कम से कम 40 दिन पहले तक ही उपयोग करें।",
+      "en": "⚠️ Do not spray during flowering — it is toxic to bees. Wear a mask, gloves and full-sleeved clothing while spraying. Observe a pre-harvest interval of at least 40 days."
+    },
+    "variants": [
+      {
+        "unit": "bottle",
+        "active": true,
+        "label": {
+          "hi": "100 मिली बोतल",
+          "en": "100 ml Bottle"
+        },
+        "mrp": 220,
+        "price": 195,
+        "stock": 140,
+        "id": "v1"
+      },
+      {
+        "unit": "bottle",
+        "active": true,
+        "label": {
+          "hi": "250 मिली बोतल",
+          "en": "250 ml Bottle"
+        },
+        "mrp": 500,
+        "price": 450,
+        "stock": 90,
+        "id": "v2"
+      },
+      {
+        "unit": "bottle",
+        "active": true,
+        "label": {
+          "hi": "500 मिली बोतल",
+          "en": "500 ml Bottle"
+        },
+        "mrp": 950,
+        "price": 860,
+        "stock": 35,
+        "id": "v3"
+      }
+    ]
+  },
+  {
+    "id": "p_008",
+    "featured": false,
+    "active": true,
+    "crops": [
+      "potato",
+      "tomato",
+      "grapes",
+      "wheat"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "mancozeb-75-wp",
+    "sku": "PST-MNZ-008",
+    "type": "pesticide",
+    "category": "fungicide",
+    "brand": "Indofil",
+    "technical": "Mancozeb 75% WP",
+    "name": {
+      "hi": "मैंकोजेब 75% WP",
+      "en": "Mancozeb 75% WP"
+    },
+    "shortDesc": {
+      "hi": "झुलसा, रतुआ और धब्बा रोग के लिए भरोसेमंद बहुउद्देशीय फफूंदनाशक",
+      "en": "A dependable broad-spectrum fungicide for blight, rust and leaf spot"
+    },
+    "description": {
+      "hi": "मैंकोजेब एक संपर्क फफूंदनाशक है जो पत्ती की सतह पर सुरक्षा कवच बना देता है। यह रोग आने से पहले छिड़कने पर सबसे ज़्यादा काम करता है। आलू-टमाटर का पछेती झुलसा, गेहूँ का रतुआ, अंगूर का डाउनी मिल्ड्यू और कई तरह के पत्ती धब्बा रोगों में उपयोगी है।",
+      "en": "Mancozeb is a contact fungicide that forms a protective film on the leaf surface. It works best applied before disease appears. Useful against late blight in potato and tomato, wheat rust, downy mildew in grapes and a range of leaf spots."
+    },
+    "usage": {
+      "hi": "2 – 2.5 ग्राम प्रति लीटर पानी में घोलकर छिड़काव करें। बारिश के मौसम में 10–12 दिन के अंतर पर दोहराएँ।",
+      "en": "Dissolve 2 – 2.5 g per litre of water and spray. During the monsoon repeat every 10–12 days."
+    },
+    "dosage": {
+      "hi": "600–800 ग्राम प्रति एकड़",
+      "en": "600–800 g per acre"
+    },
+    "safetyNotes": {
+      "hi": "⚠️ घोल बनाते समय पाउडर उड़कर साँस में न जाए — मास्क पहनें। खाली पैकेट खेत या तालाब में न फेंकें। कटाई से 15 दिन पहले छिड़काव बंद कर दें।",
+      "en": "⚠️ Wear a mask so the powder is not inhaled while mixing. Never discard empty packs in fields or ponds. Stop spraying 15 days before harvest."
+    },
+    "variants": [
+      {
+        "unit": "pack",
+        "active": true,
+        "label": {
+          "hi": "500 ग्राम पैक",
+          "en": "500 g Pack"
+        },
+        "mrp": 320,
+        "price": 290,
+        "stock": 110,
+        "id": "v1"
+      },
+      {
+        "unit": "pack",
+        "active": true,
+        "label": {
+          "hi": "1 किग्रा पैक",
+          "en": "1 kg Pack"
+        },
+        "mrp": 600,
+        "price": 545,
+        "stock": 55,
+        "id": "v2"
+      }
+    ]
+  },
+  {
+    "id": "p_009",
+    "featured": false,
+    "active": true,
+    "crops": [
+      "non-crop",
+      "orchard",
+      "plantation"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "glyphosate-41-sl",
+    "sku": "PST-GLY-009",
+    "type": "pesticide",
+    "category": "herbicide",
+    "brand": "Rajat Kisan",
+    "technical": "Glyphosate 41% SL",
+    "name": {
+      "hi": "ग्लाइफोसेट 41% SL",
+      "en": "Glyphosate 41% SL"
+    },
+    "shortDesc": {
+      "hi": "खाली खेत और मेड़ की सफ़ाई के लिए सम्पूर्ण खरपतवारनाशी",
+      "en": "A total herbicide for clearing fallow fields and bunds"
+    },
+    "description": {
+      "hi": "ग्लाइफोसेट एक नॉन-सिलेक्टिव खरपतवारनाशी है — यह हर हरे पौधे को मारता है, इसलिए इसका उपयोग सिर्फ़ खाली खेत, मेड़, नहर किनारे और बागान की पंक्तियों के बीच किया जाता है। यह पत्ती से सोखकर जड़ तक पहुँचता है, इसलिए दूब जैसे ज़िद्दी खरपतवार भी जड़ से ख़त्म होते हैं।",
+      "en": "Glyphosate is a non-selective herbicide — it kills every green plant, so it is used only on fallow land, bunds, canal edges and between orchard rows. It travels from leaf to root, which is why stubborn weeds like doob grass are killed at the root."
+    },
+    "usage": {
+      "hi": "खरपतवार के अच्छी तरह उगने पर (15–20 सेमी) छिड़काव करें। छिड़काव के 6 घंटे तक बारिश नहीं होनी चाहिए। फ्लैट-फैन नोज़ल का ही उपयोग करें।",
+      "en": "Spray once weeds are well grown (15–20 cm). Keep 6 rain-free hours after spraying. Use a flat-fan nozzle only."
+    },
+    "dosage": {
+      "hi": "1 – 1.6 लीटर प्रति एकड़ (150–200 लीटर पानी में)",
+      "en": "1 – 1.6 litres per acre in 150–200 litres of water"
+    },
+    "safetyNotes": {
+      "hi": "⚠️ खड़ी फसल पर कभी छिड़काव न करें — पूरी फसल मर जाएगी। छिड़काव वाले पंप को खाद/कीटनाशक के पंप से हमेशा अलग रखें। हवा चलने पर छिड़काव न करें, बहाव से पड़ोस की फसल को नुकसान हो सकता है।",
+      "en": "⚠️ Never spray on a standing crop — it will kill the entire crop. Always keep the sprayer separate from the one used for fertilizers or insecticides. Do not spray in wind; drift can damage a neighbour’s crop."
+    },
+    "variants": [
+      {
+        "unit": "bottle",
+        "active": true,
+        "label": {
+          "hi": "1 लीटर बोतल",
+          "en": "1 Litre Bottle"
+        },
+        "mrp": 480,
+        "price": 430,
+        "stock": 78,
+        "id": "v1"
+      },
+      {
+        "unit": "can",
+        "active": true,
+        "label": {
+          "hi": "5 लीटर कैन",
+          "en": "5 Litre Can"
+        },
+        "mrp": 2200,
+        "price": 1990,
+        "stock": 18,
+        "id": "v2"
+      }
+    ]
+  },
+  {
+    "id": "p_010",
+    "featured": false,
+    "active": true,
+    "crops": [
+      "sugarcane",
+      "groundnut",
+      "rice",
+      "vegetables"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "chlorpyriphos-20-ec",
+    "sku": "PST-CPF-010",
+    "type": "pesticide",
+    "category": "insecticide",
+    "brand": "Rajat Kisan",
+    "technical": "Chlorpyriphos 20% EC",
+    "name": {
+      "hi": "क्लोरपायरीफॉस 20% EC",
+      "en": "Chlorpyriphos 20% EC"
+    },
+    "shortDesc": {
+      "hi": "दीमक और भूमिगत कीटों के लिए सबसे प्रचलित उपचार",
+      "en": "The standard treatment for termites and soil-dwelling pests"
+    },
+    "description": {
+      "hi": "दीमक खड़ी फसल की जड़ें काटकर पूरे खेत को चौपट कर सकती है, और नुकसान तब दिखता है जब पौधा सूख चुका होता है। क्लोरपायरीफॉस मिट्टी में लंबे समय तक टिककर दीमक, सफ़ेद गिडार और कटवर्म पर काम करता है। गन्ना और मूँगफली में यह विशेष रूप से उपयोगी है।",
+      "en": "Termites cut the roots of a standing crop and can destroy a whole field, with damage visible only once plants have already wilted. Chlorpyriphos persists in the soil and acts on termites, white grubs and cutworms. Particularly useful in sugarcane and groundnut."
+    },
+    "usage": {
+      "hi": "मिट्टी उपचार: 2 लीटर को 20 किग्रा रेत में मिलाकर प्रति एकड़ बिखेरें और सिंचाई करें। सिंचाई के पानी के साथ भी दिया जा सकता है।",
+      "en": "Soil treatment: mix 2 litres with 20 kg of sand, broadcast per acre and irrigate. It can also be delivered with irrigation water."
+    },
+    "dosage": {
+      "hi": "2 लीटर प्रति एकड़ (मिट्टी उपचार)",
+      "en": "2 litres per acre for soil treatment"
+    },
+    "safetyNotes": {
+      "hi": "⚠️ तेज़ गंध वाला ज़हरीला रसायन है। मास्क, दस्ताने और चश्मा ज़रूर पहनें। छिड़काव के बाद नहाएँ और कपड़े अलग से धोएँ। सब्ज़ियों में कटाई से कम से कम 20 दिन पहले ही उपयोग करें।",
+      "en": "⚠️ A toxic, strongly odorous chemical. Always wear a mask, gloves and goggles. Bathe after use and wash the clothing separately. In vegetables, observe at least a 20-day pre-harvest interval."
+    },
+    "variants": [
+      {
+        "unit": "bottle",
+        "active": true,
+        "label": {
+          "hi": "1 लीटर बोतल",
+          "en": "1 Litre Bottle"
+        },
+        "mrp": 480,
+        "price": 420,
+        "stock": 64,
+        "id": "v1"
+      }
+    ]
+  },
+  {
+    "id": "p_011",
+    "featured": false,
+    "active": true,
+    "crops": [
+      "mustard",
+      "groundnut",
+      "onion",
+      "garlic"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "sulphur-80-wdg",
+    "sku": "FRT-SUL-011",
+    "type": "fertilizer",
+    "category": "micronutrient",
+    "brand": "Rajat Kisan",
+    "technical": "Sulphur 80% WDG",
+    "name": {
+      "hi": "सल्फर 80% WDG",
+      "en": "Sulphur 80% WDG"
+    },
+    "shortDesc": {
+      "hi": "तिलहन फसलों में तेल की मात्रा और प्याज़-लहसुन की तीखास बढ़ाए",
+      "en": "Raises oil content in oilseeds and pungency in onion and garlic"
+    },
+    "description": {
+      "hi": "सरसों, मूँगफली और सोयाबीन जैसी तिलहन फसलों में तेल बनने के लिए सल्फर सीधे ज़िम्मेदार होता है — इसकी कमी में दाना तो बनता है पर तेल कम निकलता है। प्याज़ और लहसुन की तीखास भी सल्फर से ही आती है। यह मिट्टी के pH को हल्का कम करके क्षारीय ज़मीन में भी सुधार करता है।",
+      "en": "In oilseeds such as mustard, groundnut and soybean, sulphur is directly responsible for oil synthesis — without it grain forms but oil recovery falls. It also produces the pungency in onion and garlic, and mildly lowers soil pH, which helps on alkaline land."
+    },
+    "usage": {
+      "hi": "बुवाई के समय मिट्टी में मिलाएँ, या 2 ग्राम प्रति लीटर की दर से छिड़काव करें।",
+      "en": "Incorporate into the soil at sowing, or spray at 2 g per litre."
+    },
+    "dosage": {
+      "hi": "8–10 किग्रा प्रति एकड़",
+      "en": "8–10 kg per acre"
+    },
+    "safetyNotes": {
+      "hi": "बहुत गर्मी (40°C से ऊपर) में छिड़काव न करें, पत्तियाँ जल सकती हैं। तेल आधारित दवाओं के साथ न मिलाएँ।",
+      "en": "Do not spray above 40°C — leaves can scorch. Do not tank-mix with oil-based formulations."
+    },
+    "variants": [
+      {
+        "unit": "pack",
+        "active": true,
+        "label": {
+          "hi": "3 किग्रा पैक",
+          "en": "3 kg Pack"
+        },
+        "mrp": 400,
+        "price": 360,
+        "stock": 58,
+        "id": "v1"
+      }
+    ]
+  },
+  {
+    "id": "p_012",
+    "featured": false,
+    "active": true,
+    "crops": [
+      "all crops",
+      "vegetables",
+      "orchard"
+    ],
+    "images": [],
+    "createdAt": "2026-09-06T00:00:00.000Z",
+    "updatedAt": "2026-09-06T00:00:00.000Z",
+    "slug": "humic-acid-98",
+    "sku": "FRT-HUM-012",
+    "type": "fertilizer",
+    "category": "organic",
+    "brand": "Rajat Kisan",
+    "technical": "Humic Acid 98% (Potassium Humate)",
+    "name": {
+      "hi": "ह्यूमिक एसिड 98% (बायो स्टिमुलेंट)",
+      "en": "Humic Acid 98% (Bio-Stimulant)"
+    },
+    "shortDesc": {
+      "hi": "जड़ों का जाल फैलाए और डाली गई खाद का पूरा फायदा दिलाए",
+      "en": "Expands the root network so applied fertilizer is actually absorbed"
+    },
+    "description": {
+      "hi": "ह्यूमिक एसिड अपने आप में खाद नहीं है, बल्कि खाद का असर बढ़ाने वाला पदार्थ है। यह मिट्टी में बँधे हुए पोषक तत्वों को पौधे के लिए उपलब्ध बनाता है और सफ़ेद जड़ों की संख्या बढ़ा देता है। नतीजा — उतनी ही खाद में बेहतर बढ़वार। यह पानी में पूरी तरह घुलनशील है और ड्रिप से भी दिया जा सकता है।",
+      "en": "Humic acid is not a fertilizer in itself but an enhancer of the fertilizer you already apply. It unlocks nutrients bound in the soil and multiplies white feeder roots, so the same dose produces better growth. Fully water soluble and suitable for drip application."
+    },
+    "usage": {
+      "hi": "ड्रिप या सिंचाई के पानी के साथ 500 ग्राम प्रति एकड़, या 2 ग्राम प्रति लीटर की दर से पत्तियों पर छिड़काव।",
+      "en": "Apply 500 g per acre through drip or irrigation water, or spray on foliage at 2 g per litre."
+    },
+    "dosage": {
+      "hi": "500 ग्राम – 1 किग्रा प्रति एकड़ प्रति सीज़न",
+      "en": "500 g – 1 kg per acre per season"
+    },
+    "safetyNotes": {
+      "hi": "कैल्शियम और फॉस्फेट वाले घोल के साथ मिलाने पर जम सकता है — अलग से दें।",
+      "en": "Can precipitate when mixed with calcium or phosphate solutions — apply separately."
+    },
+    "variants": [
+      {
+        "unit": "pack",
+        "active": true,
+        "label": {
+          "hi": "500 ग्राम पैक",
+          "en": "500 g Pack"
+        },
+        "mrp": 450,
+        "price": 399,
+        "stock": 96,
+        "id": "v1"
+      },
+      {
+        "unit": "pack",
+        "active": true,
+        "label": {
+          "hi": "1 किग्रा पैक",
+          "en": "1 kg Pack"
+        },
+        "mrp": 800,
+        "price": 720,
+        "stock": 41,
+        "id": "v2"
+      }
+    ]
+  }
+]
