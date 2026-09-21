@@ -41,7 +41,8 @@
       "🍈 papaya"
     ],
     "images": [
-      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/screenshot-2026-08-25-21-39-34-02-40deb401b9ffe8-muay8rnh.webp"
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/screenshot-2026-08-25-21-39-34-02-40deb401b9ffe8-muay8rnh.webp",
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/images-mubhrmlq.webp"
     ],
     "variants": [
       {
@@ -72,7 +73,7 @@
     "featured": true,
     "active": true,
     "createdAt": "2026-09-21T07:56:41.179Z",
-    "updatedAt": "2026-09-21T16:51:58.494Z"
+    "updatedAt": "2026-09-21T17:00:58.550Z"
   },
   {
     "id": "p_muawq3smp9ul",
