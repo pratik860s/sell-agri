@@ -9,6 +9,7 @@ import path from 'node:path'
 import { guardMethod, body, fail, json, wrap } from './_lib/http.js'
 import { requireAdmin } from './_lib/auth.js'
 import * as github from './_lib/github.js'
+import { assertWritable } from './_lib/store.js'
 import { slugify } from './_lib/validate.js'
 
 const MAX_BYTES = 2 * 1024 * 1024
@@ -17,6 +18,7 @@ const ALLOWED = { 'image/webp': 'webp', 'image/jpeg': 'jpg', 'image/png': 'png' 
 export default wrap(async (req, res) => {
   if (guardMethod(req, res, ['POST'])) return
   if (!(await requireAdmin(req, res))) return
+  assertWritable()
 
   const { dataUrl, filename } = body(req)
   if (typeof dataUrl !== 'string' || !dataUrl.startsWith('data:')) {

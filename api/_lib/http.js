@@ -45,7 +45,11 @@ export function wrap(handler) {
       await handler(req, res)
     } catch (err) {
       console.error(`[api] ${req.method} ${req.url}`, err)
-      if (!res.writableEnded) fail(res, 500, err.message || 'Internal server error')
+      if (res.writableEnded) return
+      // Errors that carry their own status (e.g. storage not configured) keep it —
+      // a misconfigured deployment is not an "internal server error".
+      const status = Number.isInteger(err.status) ? err.status : 500
+      fail(res, status, err.message || 'Internal server error', err.code ? { code: err.code } : {})
     }
   }
 }

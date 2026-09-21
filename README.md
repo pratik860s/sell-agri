@@ -240,6 +240,37 @@ scripts/                Dev API plugin, password hasher
 
 ---
 
+## Troubleshooting
+
+**`EROFS: read-only file system, open '/var/task/data/settings.json'`**
+
+The deployment has no `GITHUB_*` environment variables, so the admin panel tried to save
+to Vercel's disk — which is read-only. Nothing can be edited until this is fixed: not the
+WhatsApp number, not the YouTube link, not products.
+
+Fix it by adding `GITHUB_TOKEN`, `GITHUB_OWNER` and `GITHUB_REPO` in
+**Vercel → Settings → Environment Variables** (see [Environment variables](#environment-variables)
+for how to create the token), ticking **Production**, **Preview** and **Development** for
+each one, then redeploying — **Deployments → ⋯ → Redeploy**. Environment variables are
+only picked up by a *new* build, so adding them without redeploying changes nothing.
+
+Confirm it worked: sign in to `/admin` and check the badge at the bottom of the sidebar.
+It should read **Saving to GitHub**. **Saving is turned off** in red means the variables
+are still missing or the redeploy has not finished.
+
+**Saves fail with "GitHub write failed (403)" or "(404)"**
+
+The token is valid but cannot write to the repo. Check that the fine-grained token grants
+**Contents → Read and write**, that it lists *this* repository under Repository access,
+and that `GITHUB_OWNER` / `GITHUB_REPO` / `GITHUB_BRANCH` match the repo exactly —
+`GITHUB_BRANCH` defaults to `main`, so set it explicitly if your branch is `master`.
+
+**Saves succeed but the public site still shows the old value**
+
+Public responses are cached for 60 seconds (`s-maxage=60`). Wait a minute and reload.
+
+---
+
 ## Security notes
 
 - The session cookie is `HttpOnly; Secure; SameSite=Strict` — not readable by scripts.

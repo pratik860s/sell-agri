@@ -10,8 +10,29 @@ const NAV = [
   { to: '/admin/settings', label: 'Settings', icon: 'settings' }
 ]
 
+// Keyed by the `storage` value /api/auth/me reports. `unconfigured` means the site is
+// deployed but has no GITHUB_* variables, so every save will be refused.
+const STORAGE_BANNER = {
+  github: {
+    title: 'Saving to GitHub',
+    detail: 'Edits commit to data/*.json',
+    className: 'bg-agri-500/10 border-agri-500/25 text-agri-300'
+  },
+  local: {
+    title: 'Saving to local disk',
+    detail: 'Development mode — not deployed',
+    className: 'bg-amber-500/10 border-amber-500/25 text-amber-300'
+  },
+  unconfigured: {
+    title: 'Saving is turned off',
+    detail: 'Set GITHUB_TOKEN, GITHUB_OWNER and GITHUB_REPO in Vercel, then redeploy.',
+    className: 'bg-red-500/10 border-red-500/30 text-red-300'
+  }
+}
+
 export default function AdminLayout() {
   const { user, storage, checking, logout } = useAuth()
+  const banner = STORAGE_BANNER[storage] ?? STORAGE_BANNER.local
   const navigate = useNavigate()
   const [open, setOpen] = useState(false)
 
@@ -56,20 +77,10 @@ export default function AdminLayout() {
       </nav>
 
       <div className="pt-4 mt-4 border-t border-white/10 space-y-3">
-        {/* Makes it obvious whether saves are committing to GitHub or only to local disk. */}
-        <div
-          className={`text-[11px] px-3 py-2 rounded-lg border ${
-            storage === 'github'
-              ? 'bg-agri-500/10 border-agri-500/25 text-agri-300'
-              : 'bg-amber-500/10 border-amber-500/25 text-amber-300'
-          }`}
-        >
-          <span className="font-bold block">
-            {storage === 'github' ? 'Saving to GitHub' : 'Saving to local disk'}
-          </span>
-          <span className="opacity-80">
-            {storage === 'github' ? 'Edits commit to data/*.json' : 'Development mode — not deployed'}
-          </span>
+        {/* Makes it obvious where saves go — and warns before a save fails. */}
+        <div className={`text-[11px] px-3 py-2 rounded-lg border ${banner.className}`}>
+          <span className="font-bold block">{banner.title}</span>
+          <span className="opacity-80">{banner.detail}</span>
         </div>
 
         <p className="text-xs text-slate-400 px-3">

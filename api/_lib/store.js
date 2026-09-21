@@ -17,6 +17,33 @@ const cache = new Map() // file -> { data, sha, at }
 
 export const usingGitHub = () => github.isConfigured()
 
+/** True on Vercel (and any other read-only serverless host), where fs writes fail with EROFS. */
+export const isServerless = () => Boolean(process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME)
+
+/**
+ * 'github'       -> writes commit to the repo (the only mode that persists in production)
+ * 'local'        -> writes go to ./data on a writable disk (local development)
+ * 'unconfigured' -> deployed without GITHUB_*; reads still work, writes cannot
+ */
+export function storageMode() {
+  if (usingGitHub()) return 'github'
+  return isServerless() ? 'unconfigured' : 'local'
+}
+
+export const MISSING_STORAGE_MESSAGE =
+  'Saving is turned off because this deployment has no database configured. ' +
+  'Vercel’s filesystem is read-only, so admin edits have to be committed back to GitHub. ' +
+  'Add GITHUB_TOKEN, GITHUB_OWNER and GITHUB_REPO under Vercel → Settings → Environment Variables, then redeploy.'
+
+/** Fail with a message that says what to do, instead of letting fs.writeFile throw EROFS. */
+export function assertWritable() {
+  if (storageMode() !== 'unconfigured') return
+  const err = new Error(MISSING_STORAGE_MESSAGE)
+  err.code = 'STORAGE_UNCONFIGURED'
+  err.status = 503
+  throw err
+}
+
 function localPath(file) {
   return path.resolve(process.cwd(), DATA_DIR, file)
 }
@@ -41,6 +68,7 @@ export async function readData(file, { fresh = false } = {}) {
 }
 
 export async function writeData(file, data, message) {
+  assertWritable()
   const json = JSON.stringify(data, null, 2) + '\n'
 
   if (!usingGitHub()) {
