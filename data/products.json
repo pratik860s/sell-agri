@@ -1,5 +1,60 @@
 [
   {
+    "id": "p_muawq3smp9ul",
+    "slug": "ugaoo-instagrow-npk-19-19-19",
+    "sku": "UG-001",
+    "type": "fertilizer",
+    "category": "nitrogen",
+    "brand": "Ugaoo",
+    "name": {
+      "hi": "Ugaoo InstaGrow NPK 19:19:19",
+      "en": "Ugaoo InstaGrow NPK 19:19:19"
+    },
+    "shortDesc": {
+      "hi": "",
+      "en": ""
+    },
+    "description": {
+      "hi": "",
+      "en": ""
+    },
+    "usage": {
+      "hi": "",
+      "en": ""
+    },
+    "dosage": {
+      "hi": "",
+      "en": ""
+    },
+    "safetyNotes": {
+      "hi": "",
+      "en": ""
+    },
+    "technical": "",
+    "crops": [],
+    "images": [
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/product-image-muawp0u5.webp"
+    ],
+    "variants": [
+      {
+        "id": "v_05oz2w",
+        "label": {
+          "hi": "5 kg bag",
+          "en": "5 kg bag"
+        },
+        "mrp": 0,
+        "price": 500,
+        "stock": 0,
+        "unit": "pack",
+        "active": true
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-09-21T07:11:47.638Z",
+    "updatedAt": "2026-09-21T07:11:47.638Z"
+  },
+  {
     "id": "p_001",
     "featured": true,
     "active": true,
