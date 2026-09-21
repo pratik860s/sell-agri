@@ -12,7 +12,7 @@
     },
     "shortDesc": {
       "hi": "🌱 टोकी अल्ट्रा – टोकी अल्ट्रा एक Natural Ingredient Based Bio-Stimulant है, जो पौधों की वृद्धि और बेहतर फसल प्रदर्शन में सहायता के लिए उपयोग किया जाता है। यह पौधों की प्राकृतिक वृद्धि एवं विकास को सपोर्ट करता है।  Technical Name: Natural Ingredient Based Bio-Stimulant",
-      "en": "🌱 टोकी अल्ट्रा – टोकी अल्ट्रा एक Natural Ingredient Based Bio-Stimulant है, जो पौधों की वृद्धि और बेहतर फसल प्रदर्शन में सहायता के लिए उपयोग किया जाता है। यह पौधों की प्राकृतिक वृद्धि एवं विकास को सपोर्ट करता है।  Technical Name: Natural Ingredient Based Bio-Stimulant"
+      "en": "🌱 Toki Ultra – Toki Ultra is a natural ingredient-based biostimulant used to aid plant growth and enhance crop performance. It supports the natural growth and development of plants. Technical Name: Natural Ingredient-Based Biostimulant."
     },
     "description": {
       "hi": "",
@@ -35,8 +35,10 @@
       "🌽 मक्का",
       "🌱 मूंग",
       "🌾 गेहूं/धान",
-      "🥬 Vegetables\t 🍌 Banana🥔 Potato",
-      "papaya"
+      "🥬 Vegetables",
+      "🍌 Banana",
+      "🥔 Potato",
+      "🍈 papaya"
     ],
     "images": [
       "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/screenshot-2026-08-25-21-39-34-02-40deb401b9ffe8-muay8rnh.webp"
@@ -70,7 +72,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:56:41.179Z",
-    "updatedAt": "2026-09-21T16:21:31.413Z"
+    "updatedAt": "2026-09-21T16:27:56.728Z"
   },
   {
     "id": "p_muawq3smp9ul",
