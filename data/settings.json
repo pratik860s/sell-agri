@@ -44,5 +44,5 @@
     "hi": "नमस्ते Rajat Kisan 🌱\nमुझे अपने खेत की मिट्टी की जाँच करवानी है।\n\n👤 नाम : {{name}}\n📞 मोबाइल : {{phone}}\n📍 गाँव / जिला : {{location}}\n🌾 वर्तमान फसल : {{crop}}\n📐 खेत का रकबा : {{area}}\n\nकृपया आगे की प्रक्रिया और शुल्क बताएं।",
     "en": "Hello Rajat Kisan 🌱\nI would like to get my soil tested.\n\n👤 Name : {{name}}\n📞 Mobile : {{phone}}\n📍 Village / District : {{location}}\n🌾 Current crop : {{crop}}\n📐 Land area : {{area}}\n\nPlease share the process and charges."
   },
-  "updatedAt": "2026-09-21T07:42:03.849Z"
+  "updatedAt": "2026-09-21T07:42:26.275Z"
 }
