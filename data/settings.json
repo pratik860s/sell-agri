@@ -11,11 +11,11 @@
     "hi": "सोमवार – शनिवार, सुबह 9 से शाम 7 बजे तक",
     "en": "Monday – Saturday, 9 AM to 7 PM"
   },
-  "youtubeUrl": "https://www.youtube.com/@rajatkisan",
+  "youtubeUrl": "https://youtube.com/@rajat_kisan?si=kuMAXODO7dNsX2r4",
   "phone": "7354008209",
-  "email": "contact@rajatkisan.in",
+  "email": "rajatbhargav29@gmail.com",
   "address": {
-    "hi": "रजत किसान कृषि सेवा केंद्र, मुख्य बाज़ार, जिला — मध्य प्रदेश",
+    "hi": "रजत किसान कृषि सेवा केंद्र, मुख्य बाज़ार, जिला- धार, मध्य प्रदेश",
     "en": "Rajat Kisan Agri Service Centre, Main Market, Madhya Pradesh"
   },
   "hero": {
@@ -44,5 +44,5 @@
     "hi": "नमस्ते Rajat Kisan 🌱\nमुझे अपने खेत की मिट्टी की जाँच करवानी है।\n\n👤 नाम : {{name}}\n📞 मोबाइल : {{phone}}\n📍 गाँव / जिला : {{location}}\n🌾 वर्तमान फसल : {{crop}}\n📐 खेत का रकबा : {{area}}\n\nकृपया आगे की प्रक्रिया और शुल्क बताएं।",
     "en": "Hello Rajat Kisan 🌱\nI would like to get my soil tested.\n\n👤 Name : {{name}}\n📞 Mobile : {{phone}}\n📍 Village / District : {{location}}\n🌾 Current crop : {{crop}}\n📐 Land area : {{area}}\n\nPlease share the process and charges."
   },
-  "updatedAt": "2026-09-21T07:37:48.876Z"
+  "updatedAt": "2026-09-21T07:42:03.849Z"
 }
