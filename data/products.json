@@ -47,12 +47,24 @@
         "stock": 50,
         "unit": "pack",
         "active": true
+      },
+      {
+        "id": "v_24o0ez",
+        "label": {
+          "hi": "24 किलोग्राम",
+          "en": "24 kg bag"
+        },
+        "mrp": 3700,
+        "price": 3400,
+        "stock": 20,
+        "unit": "pack",
+        "active": true
       }
     ],
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:56:41.179Z",
-    "updatedAt": "2026-09-21T10:23:15.530Z"
+    "updatedAt": "2026-09-21T10:26:37.008Z"
   },
   {
     "id": "p_muawq3smp9ul",
