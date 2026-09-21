@@ -20,11 +20,11 @@
     },
     "usage": {
       "hi": "फसल\tDose/एकड़\tसमय\n🌽 मक्का\t5 kg/एकड़\t0–30 दिन\n🌱 मूंग/अन्य Pulses\t5 kg/एकड़\t0–30 दिन\n🌾 गेहूं/धान,\t5 kg/एकड़,\t0–30 दिन\n🥬 Vegetables\t10 kg/एकड़\t0–30 दिन\n🍌 Banana/Fruit crops\t10 kg/एकड़\t0–30 दिन\n🥔 Potato\t10 kg/एकड़\t0–30 दिन\n🎋 Sugarcane\t10 kg/एकड़\t0–30 दिन",
-      "en": "फसल\tDose/एकड़\tसमय\n🌽 मक्का\t5 kg/एकड़\t0–30 दिन\n🌱 मूंग/अन्य Pulses\t5 kg/एकड़\t0–30 दिन\n🌾 गेहूं/धान,\t5 kg/एकड़,\t0–30 दिन\n🥬 Vegetables\t10 kg/एकड़\t0–30 दिन\n🍌 Banana/Fruit crops\t10 kg/एकड़\t0–30 दिन\n🥔 Potato\t10 kg/एकड़\t0–30 दिन\n🎋 Sugarcane\t10 kg/एकड़\t0–30 दिन"
+      "en": "Crop\tDose/Acre\tTiming\n🌽 Maize\t5 kg/Acre\t0–30 days\n🌱 Moong/Other Pulses\t5 kg/Acre\t0–30 days\n🌾 Wheat/Paddy\t5 kg/Acre\t0–30 days\n🥬 Vegetables\t10 kg/Acre\t0–30 days\n🍌 Banana/Fruit crops\t10 kg/Acre\t0–30 days\n🥔 Potato\t10 kg/Acre\t0–30 days\n🎋 Sugarcane\t10 kg/Acre\t0–30 days"
     },
     "dosage": {
-      "hi": "",
-      "en": ""
+      "hi": "5 kg/एकड़",
+      "en": "5 kg/Acre"
     },
     "safetyNotes": {
       "hi": "",
@@ -72,7 +72,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:56:41.179Z",
-    "updatedAt": "2026-09-21T16:38:10.293Z"
+    "updatedAt": "2026-09-21T16:42:27.923Z"
   },
   {
     "id": "p_muawq3smp9ul",
