@@ -28,7 +28,7 @@
     },
     "safetyNotes": {
       "hi": "-उत्पाद को लेबल पर दिए निर्देशों के अनुसार ही उपयोग करें।\n-अनुशंसित मात्रा और फसल अवस्था का पालन करें।\n-उपयोग से पहले लेबल/पैक पर दिए निर्देश और सावधानियाँ पढ़ें।\n-आँखों और त्वचा के सीधे संपर्क से बचें।\n-उपयोग करते समय दस्ताने, मास्क और उपयुक्त सुरक्षात्मक कपड़े पहनें।\n-छिड़काव के दौरान खाना, पीना या धूम्रपान न करें।\n-बच्चों और पशुओं की पहुँच से दूर रखें।\n-उत्पाद को उसके मूल पैक में, ठंडी और सूखी जगह पर रखें।\n-खाद्य पदार्थ, पशु आहार और पीने के पानी से अलग रखें।\n-अन्य कृषि उत्पादों के साथ मिलाने से पहले लेबल पर compatibility निर्देश देखें।\n-खाली पैक/कंटेनर का उपयोग घरेलू कार्यों के लिए न करें और स्थानीय नियमों के अनुसार निपटान करें।",
-      "en": "Use the product strictly according to the instructions on the label.\nAdhere to the recommended dosage and crop stage.\nRead the instructions and precautions on the label/pack before use.\nAvoid direct contact with eyes and skin.\nWear gloves, a mask, and appropriate protective clothing during use.\nDo not eat, drink, or smoke while spraying.\nKeep out of reach of children and animals.\nStore the product in its original packaging in a cool, dry place.\nKeep separate from food, animal feed, and drinking water.\nCheck the label for compatibility instructions before mixing with other agricultural products.\nDo not use empty packs/containers for household purposes; dispose of them in accordance with local regulations."
+      "en": "-Use the product strictly according to the instructions on the label.\n-Adhere to the recommended dosage and crop stage.\n-Read the instructions and precautions on the label/pack before use.\n-Avoid direct contact with eyes and skin.\n-Wear gloves, a mask, and appropriate protective clothing during use.\n-Do not eat, drink, or smoke while spraying.\n-Keep out of reach of children and animals.\n-Store the product in its original packaging in a cool, dry place.\n-Keep separate from food, animal feed, and drinking water.\n-Check the label for compatibility instructions before mixing with other agricultural products.\n-Do not use empty packs/containers for household purposes; dispose of them in accordance with local regulations."
     },
     "technical": "Bio stimulany",
     "crops": [
@@ -72,7 +72,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:56:41.179Z",
-    "updatedAt": "2026-09-21T16:49:29.963Z"
+    "updatedAt": "2026-09-21T16:51:36.085Z"
   },
   {
     "id": "p_muawq3smp9ul",
