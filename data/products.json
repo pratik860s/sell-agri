@@ -1,5 +1,60 @@
 [
   {
+    "id": "p_muaybu5a5b0y",
+    "slug": "toki-ultra",
+    "sku": "Toki- 001",
+    "type": "fertilizer",
+    "category": "organic",
+    "brand": "Bharat certis agriscience Ltd.",
+    "name": {
+      "hi": "टोकी  अल्ट्रा",
+      "en": "Toki ultra"
+    },
+    "shortDesc": {
+      "hi": "",
+      "en": ""
+    },
+    "description": {
+      "hi": "",
+      "en": ""
+    },
+    "usage": {
+      "hi": "",
+      "en": ""
+    },
+    "dosage": {
+      "hi": "",
+      "en": ""
+    },
+    "safetyNotes": {
+      "hi": "",
+      "en": ""
+    },
+    "technical": "Bio stimulany",
+    "crops": [],
+    "images": [
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/screenshot-2026-08-25-21-39-34-02-40deb401b9ffe8-muay8rnh.webp"
+    ],
+    "variants": [
+      {
+        "id": "v_rcbwte",
+        "label": {
+          "hi": "4 किलोग्राम",
+          "en": "4 kg bag"
+        },
+        "mrp": 600,
+        "price": 550,
+        "stock": 50,
+        "unit": "pack",
+        "active": true
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-09-21T07:56:41.179Z",
+    "updatedAt": "2026-09-21T07:56:41.179Z"
+  },
+  {
     "id": "p_muawq3smp9ul",
     "slug": "ugaoo-instagrow-npk-19-19-19",
     "sku": "UG-001",
