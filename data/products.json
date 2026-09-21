@@ -44,7 +44,7 @@
         },
         "mrp": 0,
         "price": 500,
-        "stock": 0,
+        "stock": 2,
         "unit": "pack",
         "active": true
       }
@@ -52,7 +52,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:11:47.638Z",
-    "updatedAt": "2026-09-21T07:11:47.638Z"
+    "updatedAt": "2026-09-21T07:12:09.043Z"
   },
   {
     "id": "p_001",
