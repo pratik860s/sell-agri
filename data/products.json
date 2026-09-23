@@ -32,7 +32,13 @@
     },
     "technical": "Bio-stimulants",
     "crops": [
-      "🌽 मक्का 🌱 मूंग 🌾 गेहूं/धान 🥬 Vegetables 🍌 Banana 🥔 Potato 🍈 papaya"
+      "🌽 मक्का",
+      "🌱 मूंग",
+      "🌾 गेहूं/धान",
+      "🥬 Vegetables",
+      "🍌 Banana",
+      "🥔 Potato",
+      "🍈 papaya"
     ],
     "images": [],
     "variants": [
@@ -52,7 +58,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-23T15:37:06.589Z",
-    "updatedAt": "2026-09-23T15:37:06.589Z"
+    "updatedAt": "2026-09-23T15:38:55.669Z"
   },
   {
     "id": "p_muaybu5a5b0y",
