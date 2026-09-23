@@ -116,7 +116,6 @@
       "🍈 papaya"
     ],
     "images": [
-      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/screenshot-2026-08-25-21-39-34-02-40deb401b9ffe8-muay8rnh.webp",
       "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/toki-2-mueb9ui4.webp"
     ],
     "variants": [
@@ -148,7 +147,7 @@
     "featured": true,
     "active": true,
     "createdAt": "2026-09-21T07:56:41.179Z",
-    "updatedAt": "2026-09-23T16:22:34.580Z"
+    "updatedAt": "2026-09-23T16:23:31.673Z"
   },
   {
     "id": "p_muawq3smp9ul",
