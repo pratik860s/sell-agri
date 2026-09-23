@@ -23,8 +23,8 @@
       "en": "| Crop              | Quantity           | Time of Application                                             |\n| ----------------- | ------------------ | --------------------------------------------------------------- |\n| **Vegetables**    | 100–200 g/acre     | 25–30 DAT; then at flowering initiation and fruit development   |\n| **Fruit Crops**   | 200 g/acre         | After major pruning; then at 100% anthesis and fruit development |\n| **Potato**        | 100–200 g/acre     | 20–30 DAP; then 30 days later                                   |\n| **Sugarcane**     | 100–200 g/acre     | 30 DAP; then 30 days later                                      |\n| **Cotton**        | 100 g/acre         | 0–20 DAS; then at boll formation                                |"
     },
     "dosage": {
-      "hi": "",
-      "en": ""
+      "hi": "100–200 ग्राम/एकड़",
+      "en": "100–200 g/acre"
     },
     "safetyNotes": {
       "hi": "",
@@ -58,7 +58,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-23T15:37:06.589Z",
-    "updatedAt": "2026-09-23T16:04:31.225Z"
+    "updatedAt": "2026-09-23T16:05:11.526Z"
   },
   {
     "id": "p_muaybu5a5b0y",
