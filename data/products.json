@@ -27,8 +27,8 @@
       "en": "100–200 g/acre"
     },
     "safetyNotes": {
-      "hi": "",
-      "en": ""
+      "hi": "किसान उपयोग करते समय ये सावधानियाँ रखें:\n\n🧤 Kundan को संभालते समय दस्ताने और सुरक्षात्मक कपड़े पहनें।\n👀 पाउडर/घोल को आंखों और त्वचा के सीधे संपर्क से बचाएं।\n🍃 मात्रा हमेशा लेबल/आधिकारिक अनुशंसा के अनुसार रखें; अधिक मात्रा न दें।\n💧 Kundan को साफ पानी और उचित fertigation/drip व्यवस्था से दें।\n🧪 अन्य उर्वरक/कृषि उत्पादों के साथ मिलाने से पहले compatibility की पुष्टि करें।\n🌡️ तैयार घोल को लंबे समय तक रखकर इस्तेमाल करने के बजाय ताजा घोल का उपयोग करना बेहतर है।\n🧒 बच्चों और पशुओं की पहुंच से दूर रखें।\n📦 उत्पाद को मूल पैकिंग में, ठंडी और सूखी जगह पर रखें।\n🚿 उपयोग के बाद हाथ, उपकरण और संपर्क में आए हिस्सों को अच्छी तरह धोएं।\nयदि आंख/त्वचा में संपर्क हो जाए या कोई असामान्य प्रतिक्रिया हो, तो तुरंत पानी से धोकर उत्पाद के लेबल पर दिए निर्देशों के अनुसार चिकित्सा सहायता लें।",
+      "en": "Farmers should observe the following precautions during use:\n\n🧤 Wear gloves and protective clothing while handling Kundan.\n👀 Avoid direct contact of the powder/solution with eyes and skin.\n🍃 Always use the quantity specified on the label or official recommendations; do not exceed the dosage.\n💧 Apply Kundan using clean water and a proper fertigation or drip irrigation system.\n🧪 Verify compatibility before mixing with other fertilizers or agricultural products.\n🌡️ It is better to use a fresh solution rather than storing the prepared solution for a long period.\n🧒 Keep out of reach of children and animals.\n📦 Store the product in its original packaging in a cool, dry place.\n🚿 Thoroughly wash hands, equipment, and any exposed body parts after use.\nIn case of contact with eyes or skin, or if any adverse reaction occurs, rinse immediately with water and seek medical attention as per the instructions on the product label."
     },
     "technical": "Bio-stimulants",
     "crops": [
@@ -60,7 +60,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-23T15:37:06.589Z",
-    "updatedAt": "2026-09-23T16:06:25.010Z"
+    "updatedAt": "2026-09-23T16:10:05.969Z"
   },
   {
     "id": "p_muaybu5a5b0y",
