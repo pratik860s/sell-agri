@@ -47,12 +47,24 @@
       {
         "id": "v_olff8k",
         "label": {
-          "hi": "100 GM",
-          "en": "4 KG"
+          "hi": "100 ग्राम",
+          "en": "100 GM"
         },
         "mrp": 700,
         "price": 600,
         "stock": 20,
+        "unit": "pack",
+        "active": true
+      },
+      {
+        "id": "v_c7iho9",
+        "label": {
+          "hi": "200 ग्राम",
+          "en": "200 GM"
+        },
+        "mrp": 1400,
+        "price": 1200,
+        "stock": 10,
         "unit": "pack",
         "active": true
       }
@@ -60,7 +72,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-23T15:37:06.589Z",
-    "updatedAt": "2026-09-23T16:10:05.969Z"
+    "updatedAt": "2026-09-23T16:12:58.415Z"
   },
   {
     "id": "p_muaybu5a5b0y",
