@@ -1,5 +1,60 @@
 [
   {
+    "id": "p_mue9nndppzcd",
+    "slug": "toki-ultra-pzcd",
+    "sku": "002",
+    "type": "equipment",
+    "category": "",
+    "brand": "Bharat Certis AgriScience Ltd.",
+    "name": {
+      "hi": "कुंदन",
+      "en": "KUNDAN"
+    },
+    "shortDesc": {
+      "hi": "भारत सर्टिस एग्रीसाइंस लिमिटेड (Bharat Certis AgriScience Ltd.) का 'कुंदन' (Kundan) एक विशेष फर्टिगेशन और पौध पोषक उत्पाद है, जिसका उपयोग पौधों के बेहतर विकास, मजबूत जड़ों और उच्च पैदावार के लिए किया जाता है।",
+      "en": "'Kundan' from Bharat Certis AgriScience Ltd. is a specialized fertigation and plant nutrient product used for improved plant growth, strong roots, and higher yields."
+    },
+    "description": {
+      "hi": "",
+      "en": ""
+    },
+    "usage": {
+      "hi": "",
+      "en": ""
+    },
+    "dosage": {
+      "hi": "",
+      "en": ""
+    },
+    "safetyNotes": {
+      "hi": "",
+      "en": ""
+    },
+    "technical": "Bio-stimulants",
+    "crops": [
+      "🌽 मक्का 🌱 मूंग 🌾 गेहूं/धान 🥬 Vegetables 🍌 Banana 🥔 Potato 🍈 papaya"
+    ],
+    "images": [],
+    "variants": [
+      {
+        "id": "v_olff8k",
+        "label": {
+          "hi": "100 GM",
+          "en": "4 KG"
+        },
+        "mrp": 700,
+        "price": 600,
+        "stock": 20,
+        "unit": "pack",
+        "active": true
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-09-23T15:37:06.589Z",
+    "updatedAt": "2026-09-23T15:37:06.589Z"
+  },
+  {
     "id": "p_muaybu5a5b0y",
     "slug": "toki-ultra",
     "sku": "Toki- 001",
