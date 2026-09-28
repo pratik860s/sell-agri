@@ -206,7 +206,7 @@
   },
   {
     "id": "p_muawq3smp9ul",
-    "slug": "ugaoo-instagrow-npk-19-19-19",
+    "slug": "prius-npk-19-19-19",
     "sku": "NPK- 111",
     "type": "fertilizer",
     "category": "nitrogen",
@@ -236,7 +236,15 @@
       "en": ""
     },
     "technical": "N:P:K 19:19:19",
-    "crops": [],
+    "crops": [
+      "🌽 मक्का",
+      "🌱 मूंग",
+      "🌾 गेहूं/धान",
+      "🥬 Vegetables",
+      "🍌 Banana",
+      "🥔 Potato",
+      "🍈 papaya"
+    ],
     "images": [
       "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/file-0000000086988209b6550c72b0ca745f-mukxb1n0.webp"
     ],
@@ -252,12 +260,24 @@
         "stock": 2,
         "unit": "pack",
         "active": true
+      },
+      {
+        "id": "v_qmu8hg",
+        "label": {
+          "hi": "1 किलोग्राम",
+          "en": "1 KG"
+        },
+        "mrp": 350,
+        "price": 220,
+        "stock": 50,
+        "unit": "pack",
+        "active": true
       }
     ],
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:11:47.638Z",
-    "updatedAt": "2026-09-28T07:41:17.185Z"
+    "updatedAt": "2026-09-28T07:48:20.001Z"
   },
   {
     "id": "p_001",
