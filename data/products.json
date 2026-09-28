@@ -255,9 +255,9 @@
           "hi": "5 kg bag",
           "en": "5 kg bag"
         },
-        "mrp": 0,
-        "price": 500,
-        "stock": 2,
+        "mrp": 1700,
+        "price": 1000,
+        "stock": 10,
         "unit": "pack",
         "active": true
       },
@@ -277,7 +277,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:11:47.638Z",
-    "updatedAt": "2026-09-28T08:56:59.031Z"
+    "updatedAt": "2026-09-28T08:58:02.242Z"
   },
   {
     "id": "p_001",
