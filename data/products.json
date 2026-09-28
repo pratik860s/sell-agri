@@ -225,11 +225,11 @@
     },
     "usage": {
       "hi": "🌱 PRIUS® 19:19:19 \n1. 💧 फोलियर स्प्रे (पत्तियों पर छिड़काव)\nमात्रा: 1 किलो/एकड़\nPRIUS® 19:19:19 को पर्याप्त पानी में अच्छी तरह घोलें।\nतैयार घोल का फसल की पत्तियों पर समान रूप से छिड़काव करें।\nफसल की सक्रिय बढ़वार के समय उपयोग किया जा सकता है।\n2. 🚰 ड्रिप फ़र्टिगेशन\nमात्रा: 4 किलो/एकड़\nआवश्यक मात्रा को पानी में पूरी तरह घोलकर ड्रिप सिस्टम के माध्यम से फसल तक पहुँचाएँ।\nफसल की अवस्था और पोषण आवश्यकता के अनुसार उपयोग करें।\n⚠️ सावधानी: दूसरे कृषि-रसायनों के साथ मिलाने से पहले उनकी लेबल सिफारिश/कम्पैटिबिलिटी अवश्य जाँचें। हमेशा उत्पाद के आधिकारिक लेबल पर दिए निर्देशों को प्राथमिकता दें।",
-      "en": "🌱 PRIUS® 19:19:19 \n1. 💧 फोलियर स्प्रे (पत्तियों पर छिड़काव)\nमात्रा: 1 किलो/एकड़\nPRIUS® 19:19:19 को पर्याप्त पानी में अच्छी तरह घोलें।\nतैयार घोल का फसल की पत्तियों पर समान रूप से छिड़काव करें।\nफसल की सक्रिय बढ़वार के समय उपयोग किया जा सकता है।\n2. 🚰 ड्रिप फ़र्टिगेशन\nमात्रा: 4 किलो/एकड़\nआवश्यक मात्रा को पानी में पूरी तरह घोलकर ड्रिप सिस्टम के माध्यम से फसल तक पहुँचाएँ।\nफसल की अवस्था और पोषण आवश्यकता के अनुसार उपयोग करें।\n⚠️ सावधानी: दूसरे कृषि-रसायनों के साथ मिलाने से पहले उनकी लेबल सिफारिश/कम्पैटिबिलिटी अवश्य जाँचें। हमेशा उत्पाद के आधिकारिक लेबल पर दिए निर्देशों को प्राथमिकता दें।"
+      "en": "🌱 PRIUS® 19:19:19\n1. 💧 Foliar Spray\nDosage: 1 kg/acre\nDissolve PRIUS® 19:19:19 thoroughly in an adequate amount of water.\nSpray the prepared solution evenly onto the crop foliage.\nCan be applied during the active growth stage of the crop.\n2. 🚰 Drip Fertigation\nDosage: 4 kg/acre\nCompletely dissolve the required quantity in water and apply it to the crop via the drip system.\nApply according to the crop stage and nutritional requirements.\n⚠️ Caution: Check label recommendations or compatibility before mixing with other agrochemicals. Always prioritize the instructions provided on the product's official label."
     },
     "dosage": {
-      "hi": "",
-      "en": ""
+      "hi": "ड्रिप 5 किलोग्राम एकड़",
+      "en": "Drip 5 kg per acre"
     },
     "safetyNotes": {
       "hi": "",
@@ -277,7 +277,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:11:47.638Z",
-    "updatedAt": "2026-09-28T08:43:08.623Z"
+    "updatedAt": "2026-09-28T08:55:41.809Z"
   },
   {
     "id": "p_001",
