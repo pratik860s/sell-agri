@@ -232,8 +232,8 @@
       "en": "Drip 5 kg per acre"
     },
     "safetyNotes": {
-      "hi": "",
-      "en": ""
+      "hi": "⚠️ PRIUS® 19:19:19 — Safety Precautions\n\nउपयोग से पहले उत्पाद के लेबल/पैकेट पर दिए निर्देश ध्यान से पढ़ें।\n\nनिर्धारित मात्रा से अधिक उपयोग न करें।\n\nघोल बनाते समय दस्ताने और मास्क पहनना बेहतर है।\n\nआँखों और त्वचा के सीधे संपर्क से बचें।\n\nउत्पाद को बच्चों और पशुओं की पहुँच से दूर रखें।\n\nखाद्य पदार्थ, पशु-चारा और पीने के पानी से अलग रखें।\n\nउत्पाद को ठंडी, सूखी और हवादार जगह पर, मूल पैकिंग में रखें।\n\nस्प्रे के दौरान खाना, पीना या धूम्रपान न करें।\n\nतेज धूप, तेज हवा या बारिश की संभावना में स्प्रे करने से बचें।\n\nअन्य फ़र्टिलाइज़र/कृषि-रसायनों के साथ मिलाने से पहले compatibility (मिश्रण अनुकूलता) जाँच लें।\n\nउपयोग के बाद हाथ, चेहरा और इस्तेमाल किए गए उपकरण अच्छी तरह धो लें।",
+      "en": "⚠️ PRIUS® 19:19:19 — Safety Precautions\n\nCarefully read the instructions on the product label/packaging before use.\n\nDo not exceed the recommended dosage.\n\nIt is advisable to wear gloves and a mask while preparing the solution.\n\nAvoid direct contact with eyes and skin.\n\nKeep the product out of the reach of children and animals.\n\nStore separately from food, animal feed, and drinking water.\n\nStore the product in its original packaging in a cool, dry, and well-ventilated place.\n\nDo not eat, drink, or smoke while spraying.\n\nAvoid spraying during intense sunlight, strong winds, or if rain is likely.\n\nCheck for compatibility before mixing with other fertilizers or agrochemicals.\n\nThoroughly wash hands, face, and used equipment after application."
     },
     "technical": "N:P:K 19:19:19",
     "crops": [
@@ -277,7 +277,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:11:47.638Z",
-    "updatedAt": "2026-09-28T08:55:41.809Z"
+    "updatedAt": "2026-09-28T08:56:59.031Z"
   },
   {
     "id": "p_001",
