@@ -238,7 +238,8 @@
     "technical": "",
     "crops": [],
     "images": [
-      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/product-image-muawp0u5.webp"
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/product-image-muawp0u5.webp",
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/file-0000000086988209b6550c72b0ca745f-mukxb1n0.webp"
     ],
     "variants": [
       {
@@ -257,7 +258,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-09-21T07:11:47.638Z",
-    "updatedAt": "2026-09-21T07:12:09.043Z"
+    "updatedAt": "2026-09-28T07:26:01.986Z"
   },
   {
     "id": "p_001",
