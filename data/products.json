@@ -1,5 +1,60 @@
 [
   {
+    "id": "p_mumh6gwe6yje",
+    "slug": "prius",
+    "sku": "",
+    "type": "fertilizer",
+    "category": "",
+    "brand": "",
+    "name": {
+      "hi": "Prius",
+      "en": "Prius"
+    },
+    "shortDesc": {
+      "hi": "",
+      "en": ""
+    },
+    "description": {
+      "hi": "",
+      "en": ""
+    },
+    "usage": {
+      "hi": "",
+      "en": ""
+    },
+    "dosage": {
+      "hi": "",
+      "en": ""
+    },
+    "safetyNotes": {
+      "hi": "",
+      "en": ""
+    },
+    "technical": "",
+    "crops": [],
+    "images": [
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/file-0000000097d48211bddcff73c3329ab2-mumh5may.webp"
+    ],
+    "variants": [
+      {
+        "id": "v_7l3csj",
+        "label": {
+          "hi": "1 kg",
+          "en": "1 kg"
+        },
+        "mrp": 370,
+        "price": 220,
+        "stock": 0,
+        "unit": "pack",
+        "active": true
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-09-29T09:29:51.372Z",
+    "updatedAt": "2026-09-29T09:29:51.372Z"
+  },
+  {
     "id": "p_mul3wt31pnp2",
     "slug": "prius-005234-fertilizer",
     "sku": "102",
