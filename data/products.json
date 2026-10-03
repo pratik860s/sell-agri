@@ -1,5 +1,68 @@
 [
   {
+    "id": "p_musep3ydu312",
+    "slug": "prius-calcium-nitrate",
+    "sku": "104",
+    "type": "fertilizer",
+    "category": "nitrogen",
+    "brand": "VIRAD CHEMICALS AND FERTILIZERS INDUSTRIES",
+    "name": {
+      "hi": "कैल्शियम नाइट्रेट",
+      "en": "Calcium Nitrate"
+    },
+    "shortDesc": {
+      "hi": "Prius® Calcium Nitrate Ca(NO₃)₂ एक 100% पानी में घुलनशील उर्वरक है, जो फसलों को कैल्शियम और नाइट्रोजन उपलब्ध कराकर पौधों की वृद्धि एवं बेहतर गुणवत्ता में सहायक है।",
+      "en": "Prius® Calcium Nitrate Ca(NO₃)₂ is a 100% water soluble fertilizer that helps in plant growth and better quality by providing Calcium and Nitrogen to the crops."
+    },
+    "description": {
+      "hi": "🌱 Prius® Calcium Nitrate – Full Description\n\nPrius® Calcium Nitrate [Ca(NO₃)₂] एक पानी में घुलनशील कैल्शियम एवं नाइट्रोजन उर्वरक है। यह फसल को उपलब्ध नाइट्रोजन और कैल्शियम प्रदान करने में सहायता करता है, जिससे पौधों की स्वस्थ वृद्धि, मजबूत पौध संरचना और बेहतर फसल गुणवत्ता में मदद मिलती है।\n\nमुख्य विशेषताएँ:\n\n💧 पानी में आसानी से घुलनशील\n\n🌱 नाइट्रोजन का प्रभावी स्रोत\n\n🧱 कैल्शियम की पूर्ति में सहायक\n\n🌿 पौधों की स्वस्थ वृद्धि में सहायता\n\n🍅 फल एवं सब्जियों की गुणवत्ता सुधार कार्यक्रम में उपयोगी\n\n💦 ड्रिप/फर्टिगेशन एवं उपयुक्त फोलियर स्प्रे कार्यक्रम में उपयोग किया जा सकता है\n\n\nउपयोग:\nसब्जियों, फलों, कपास, अनाज एवं अन्य कृषि फसलों में फसल की आवश्यकता और मिट्टी/पौधे की स्थिति के अनुसार उपयोग किया जा सकता है।\n\nनोट: सही मात्रा, फसल और उपयोग की विधि हमेशा उत्पाद के लेबल/कंपनी की अनुशंसित डोज के अनुसार रखें।",
+      "en": "🌱 Prius® Calcium Nitrate – Full Description\n\nPrius® Calcium Nitrate [Ca(NO₃)₂] is a water-soluble calcium and nitrogen fertilizer. It helps provide available nitrogen and calcium to the crop."
+    },
+    "usage": {
+      "hi": "🌱 ड्रिप/फर्टिगेशन:\nफसल की अवस्था और मिट्टी की आवश्यकता के अनुसार कंपनी के लेबल पर दी गई अनुशंसित मात्रा में पानी के साथ घोल बनाकर ड्रिप सिस्टम से दें।\n\n💧 फोलियर स्प्रे:\nकंपनी के लेबल पर दी गई अनुशंसित मात्रा के अनुसार पानी में घोलकर पत्तियों पर समान रूप से छिड़काव करें।\n\n⚠️ महत्वपूर्ण: Calcium Nitrate की सटीक ग्राम/लीटर या kg/acre मात्रा पैकेट के लेबल के बिना अनुमान से नहीं लिखनी चाहिए। आप पैकेट की पीछे वाली फोटो भेज दें, मैं उसी के अनुसार 1 एकड़ की exact dose + पानी + ड्रिप + स्प्रे chart बना दूँगा।",
+      "en": "🌱 Drip/Fertigation:\nApply via a drip system in the recommended amount of water as per the company label, depending on the crop's condition and soil requirements.\n\n💧 Foliar"
+    },
+    "dosage": {
+      "hi": "",
+      "en": ""
+    },
+    "safetyNotes": {
+      "hi": "उपयोग से पहले उत्पाद के लेबल/निर्देश ध्यानपूर्वक पढ़ें।\n\nअनुशंसित मात्रा से अधिक उपयोग न करें।\n\nघोल तैयार करते समय दस्ताने और मास्क पहनें।\n\nआंखों और त्वचा के सीधे संपर्क से बचें।\n\nछिड़काव के दौरान खाना, पीना या धूम्रपान न करें।\n\nअन्य उर्वरक/कृषि उत्पादों के साथ मिलाने से पहले compatibility जांच लें।\n\nठंडी, सूखी और हवादार जगह पर, बच्चों एवं पशुओं से दूर रखें।\n\nखाली पैकेट/कंटेनर का पुनः उपयोग न करें।\n\nआंख या त्वचा में जाने पर तुरंत साफ पानी से अच्छी तरह धोएं और आवश्यकता होने पर चिकित्सकीय सलाह लें।",
+      "en": "Read the product label/instructions carefully before use.\n\nDo not use more than the recommended amount.\n\nWear gloves and a mask when preparing the solution.\n\nIrritating to eyes and skin"
+    },
+    "technical": "Calcium Nitrate Ca(NO₃)₂",
+    "crops": [
+      "🌽 मक्का",
+      "🌱 मूंग",
+      "🌾 गेहूं/धान",
+      "🥬 Vegetables",
+      "🍌 Banana",
+      "🥔 Potato",
+      "🍈 papaya"
+    ],
+    "images": [
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/file-00000000ad3c820785afce22c6eaa188-musdnlpq.webp"
+    ],
+    "variants": [
+      {
+        "id": "v_kwzfmy",
+        "label": {
+          "hi": "1 किलोग्राम",
+          "en": "1 KG"
+        },
+        "mrp": 370,
+        "price": 220,
+        "stock": 30,
+        "unit": "pack",
+        "active": true
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-10-03T13:06:59.268Z",
+    "updatedAt": "2026-10-03T13:06:59.268Z"
+  },
+  {
     "id": "p_mumh6gwe6yje",
     "slug": "url-slug-prius-00-00-50-potassium-fertilizer",
     "sku": "103",
