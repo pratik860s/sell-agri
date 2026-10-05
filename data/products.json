@@ -1,5 +1,82 @@
 [
   {
+    "id": "p_muv2r1z5wlx7",
+    "slug": "kocide-3000-bharat-certis",
+    "sku": "201",
+    "type": "pesticide",
+    "category": "fungicide",
+    "brand": "Bharat certis agri science ltd.",
+    "name": {
+      "hi": "कोसाइड 3000",
+      "en": "Kocide 3000"
+    },
+    "shortDesc": {
+      "hi": "कोसाइड 3000 एक उन्नत कॉपर-आधारित क्रिस्टलनाशी एवं बैक्टीरियानाशी है, जिसमें कॉपर हाइड्रॉक्साइड 46.1% डब्लूजी होता है। यह विभिन्न प्रकार की उत्पादकता एवं प्लांट्स से सफल को प्रभावी सुरक्षा प्रदान करता है।",
+      "en": "Kocide 3000 is an advanced copper-based fungicide and bactericide containing Copper Hydroxide 46.1% WG. It provides effective crop protection against various fungal and bacterial diseases."
+    },
+    "description": {
+      "hi": "Kocide 3000 एक कॉपर-आधारित फफूंदनाशी एवं जीवाणुनाशी (Fungicide & Bactericide) है, जिसका सक्रिय घटक Copper Hydroxide 46.1% w/w WG है। यह पौधों की सतह पर सुरक्षात्मक परत बनाकर विभिन्न फफूंद एवं बैक्टीरियल रोगों से फसल की सुरक्षा में मदद करता है।\n\nइसकी Advanced Copper Formula फसल के पत्तों और अन्य पौधों के हिस्सों पर प्रभावी सुरक्षा प्रदान करने के लिए उपयोग की जाती है। इसका उपयोग विशेष रूप से टमाटर, मिर्च, पपीता तथा अन्य लेबल-अनुमोदित फसलों में रोग प्रबंधन के लिए किया जा सकता है।\n\nमुख्य विशेषताएँ:\n\n🧪 Technical: Copper Hydroxide 46.1% w/w WG\n\n🦠 फफूंद एवं बैक्टीरियल रोगों के प्रबंधन में उपयोगी\n\n🌿 पौधे की सतह पर सुरक्षात्मक कार्रवाई\n\n🍅 टमाटर, 🌶️ मिर्च, पपीता एवं अन्य फसलों में उपयोग\n\n💧 WG formulation पानी में मिलाकर छिड़काव के लिए\n\n🌱 फसल को रोगों से होने वाले नुकसान को कम करने में सहायक\n\n\nनोट: फसल, रोग और मात्रा के अनुसार उपयोग हमेशा उत्पाद के लेबल/स्वीकृत सिफारिश के अनुसार करें। अन्य उत्पादों के साथ मिलाने से पहले compatibility की जाँच करें।",
+      "en": "Kocide 3000 is a copper-based fungicide and bactericide with the active ingredient Copper Hydroxide 46.1% w/w WG. It forms a protective layer on plant surfaces."
+    },
+    "usage": {
+      "hi": "Kocide 3000 (Copper Hydroxide 46.1% WG) का उपयोग मुख्यतः रोग की शुरुआत से पहले/प्रिवेंटिव अवस्था में पत्तियों पर स्प्रे के रूप में किया जाता है। Bharat Certis की सिफारिश के अनुसार इसे रोग स्थापित होने के बाद curative/eradicant उपयोग के बजाय preventive stage पर लगाना बेहतर है। \n\nस्प्रे विधि:\n\n1. टंकी में आधा साफ पानी भरें।\n\n\n2. आवश्यक मात्रा में Kocide 3000 को थोड़े पानी में अच्छी तरह घोलें।\n\n\n3. घोल को टंकी में डालकर लगातार मिलाएँ और बाकी पानी भरें।\n\n\n4. पत्तियों और पौधे के प्रभावित/संवेदनशील हिस्सों पर समान एवं अच्छी coverage वाला स्प्रे करें।\n\n\n5. तेज हवा या बारिश की संभावना में स्प्रे न करें।\n\n\n\nउदाहरणित लेबल सिफारिशें:\n\n🌶️ मिर्च: Anthracnose/Dieback — 500 ग्राम/एकड़ + 200 लीटर पानी।\n\n🌱 कपास: Bacterial blight — 500 ग्राम/एकड़ + 200 लीटर पानी।\n\n🥔 आलू: Late blight — 500 ग्राम/एकड़ + 200 लीटर पानी। \n\n\nमहत्वपूर्ण: टमाटर/पपीता के लिए मात्रा बिना भारतीय स्वीकृत लेबल पर पुष्टि किए नहीं लिखनी चाहिए। वेबसाइट पर वही crop + disease + dose डालें जो भारत में उत्पाद के वर्तमान लेबल पर स्वीकृत हो।",
+      "en": "Kocide 3000 (Copper Hydroxide 46.1% WG) is primarily used as a foliar spray during the pre-initiation/preventive stages of disease. As recommended by Bharat Certis"
+    },
+    "dosage": {
+      "hi": "500 ग्राम 1 एकड़",
+      "en": "500 GM par acre"
+    },
+    "safetyNotes": {
+      "hi": "कोसाइड 3000 - सुरक्षा सावधानियाँ\n\n🧤 स्पाइडर तैयार करते हैं और रचना करते हैं समय-समय पर फ्रेम, मास्क, चश्मा और पूरे शरीर को कपड़े पहनने वाले। \n\n🚫 उपयोग के दौरान खाना, धूम्रपान या धूम्रपान न करें। \n\n🌬️पाउडर/एस",
+      "en": "🧤 Wear gloves, a mask, goggles, and full-body clothing when preparing and spraying the spray.\n\n🚫 Do not eat, drink, or smoke during use.\n\n🌬️ Powder/Sol"
+    },
+    "technical": "Copper Hydroxide 46.1% WG.",
+    "crops": [
+      "🌽 मक्का",
+      "🌱 मूंग",
+      "🌾 गेहूं/धान",
+      "🥬 Vegetables",
+      "🍌 Banana",
+      "🥔 Potato",
+      "🍈 papaya"
+    ],
+    "images": [
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/gemini-generated-image-xt5hmtxt5hmtxt5h-muv2dpk7.webp",
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/file-00000000109482078c8225a286d1d3c9-muv2ds2e.webp",
+      "https://cdn.jsdelivr.net/gh/pratik860s/sell-agri@main/public/products/screenshot-2026-08-25-21-44-56-78-40deb401b9ffe8-muv2du4v.webp"
+    ],
+    "variants": [
+      {
+        "id": "v_jkkjy9",
+        "label": {
+          "hi": "250 GM",
+          "en": "10 kg"
+        },
+        "mrp": 1100,
+        "price": 850,
+        "stock": 60,
+        "unit": "pack",
+        "active": true
+      },
+      {
+        "id": "v_g5p3pf",
+        "label": {
+          "hi": "500 GM",
+          "en": "10 kg"
+        },
+        "mrp": 2000,
+        "price": 1400,
+        "stock": 50,
+        "unit": "pack",
+        "active": true
+      }
+    ],
+    "featured": false,
+    "active": true,
+    "createdAt": "2026-10-05T09:55:53.151Z",
+    "updatedAt": "2026-10-05T09:55:53.151Z"
+  },
+  {
     "id": "p_musep3ydu312",
     "slug": "prius-calcium-nitrate",
     "sku": "104",
