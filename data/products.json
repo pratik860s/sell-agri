@@ -53,7 +53,7 @@
           "en": "10 kg"
         },
         "mrp": 1100,
-        "price": 850,
+        "price": 750,
         "stock": 60,
         "unit": "pack",
         "active": true
@@ -74,7 +74,7 @@
     "featured": false,
     "active": true,
     "createdAt": "2026-10-05T09:55:53.151Z",
-    "updatedAt": "2026-10-05T09:56:00.457Z"
+    "updatedAt": "2026-11-23T12:01:26.716Z"
   },
   {
     "id": "p_musep3ydu312",
